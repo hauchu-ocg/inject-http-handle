@@ -1,4 +1,4 @@
-module inject-http-handle
+module github.com/hauchu-ocg/inject-http-handle
 
 go 1.16
 
